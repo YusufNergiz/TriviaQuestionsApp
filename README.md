@@ -6,3 +6,8 @@ The quiz question can easily be changed by usng an api.
 
 ![First Page](Images/FirstImage.PNG)
 
+![Correct](Images/Correct.png)
+
+![InCorrect](Images/Uncorrect.png)
+
+![Game Over](Images/GameOver.png)
