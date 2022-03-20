@@ -4,5 +4,5 @@ The app has small but important features such as: disabling the buttons when the
 The quiz question can easily be changed by usng an api.
 
 
-![First Page](Images/FirstImage.png)
+![First Page](Images/FirstImage.PNG)
 
